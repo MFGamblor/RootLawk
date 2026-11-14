@@ -1,0 +1,4 @@
+# Keep line endings right on every platform: the MPC needs LF, Windows .bat needs CRLF.
+*.sh text eol=lf
+*.command text eol=lf
+*.bat text eol=crlf
